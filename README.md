@@ -1,4 +1,3 @@
-# bert_korquad_qna
 
 Colab환경에서 Tensorflow를 이용해 bert finetuning MRC korquad데이터셋으로 QnA를 구현한 코드입니다.
 
