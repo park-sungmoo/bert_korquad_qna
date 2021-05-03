@@ -11,7 +11,7 @@ korquad 데이터셋 다운로드, bert에 학습, 성능확인, 가중치 저�
    
    
    
-참고자료:
+# 참고자료   
 텐서플로우2와 머신러닝으로 시작하는 자연어처리 깃허브 소스코드   
 https://github.com/NLP-kr/tensorflow-ml-nlp-tf2/blob/master/7.PRETRAIN_METHOD/7.2.5.bert_finetune_KorQuAD.ipynb
 
