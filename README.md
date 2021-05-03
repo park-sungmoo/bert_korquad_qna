@@ -4,10 +4,10 @@ Colab환경에서 Tensorflow를 이용해 bert finetuning MRC korquad데이터�
 
 train,test 2개의 파일로 나누었습니다.
 
-bert_korquad_train.ipynb
+# bert_korquad_train.ipynb   
 korquad 데이터셋 다운로드, bert에 학습, 성능확인, 가중치 저장
 
-bert_korquad_test.ipynb
+# bert_korquad_test.ipynb   
 모델 구축, 가중치 불러오기, Context와 Question로 모델 predict, QnA 확인
 
 참고자료:
